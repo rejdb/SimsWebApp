@@ -1,2 +1,2 @@
 # SimsWebApp
-Sales and Inventory Management System
+Complete Content Management System (CMS) including Front-End for Managing Retail Store Sales and Inventory.
